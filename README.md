@@ -9,7 +9,7 @@ The user enters their Tinder credentials (email adress and password). The inputs
 The bot will then connect to Tinder.com, encode the credentials, log in and start swiping. 
 
 ## Layout 
-![screen_gui](images/GUI_SCREEN.png)
+![screen_gui](images/GUI_SCREEN.png)  
 The layout of the interface is very rudimentary and would still require some work.  
 
 
